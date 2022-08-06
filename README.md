@@ -4,7 +4,7 @@
 
 * Lending services companies allow individual investors to partially fund personal loans as well as buy and sell notes backing the loans on a secondary market. This notebook aims to create machine learning models to classify the risk level of loans using the (#1) **Logistic Regression**, and (#2) **Random Forest Classifier**.
 
-### Results:
+### Score Results (Logistic Regression vs. Random Forest Classifier):
 
 #### Logistic Regression Scores (Unscaled)
 Training Data Score: 0.9920724996560737
